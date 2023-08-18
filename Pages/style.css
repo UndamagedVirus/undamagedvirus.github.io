@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body{
+    background-image: url("/images/bg.jpg");
+    color: black;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+html {
+    overflow: hidden;
+    font-size: 16px;
+}
+
+header{
+ font-size: 1.2rem;
+}
+
+header,
+form{
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form input, form button{
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border: black;
+    border-style: solid;
+    background: whitesmoke;
+
+}
+
+form button{
+    color: tomato;
+    background: purple;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+form button:hover{
+    background: red;
+    color: red;
+}
+
+/* Styling fro Table 1 */
+table.table1{
+        width: 100%;
+}
+table.table1 th, td {
+    width: 33%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+/* Styling fro Table 2 */
+table.table2{
+    width: 100%;
+}
+table.table2 th, td {
+width: 33%;
+border: 1px solid blue;
+text-align: center;
+padding: 8px;
+font-size: 1rem;
+}
+
+
+
+.infobutton {
+    background-color: red;
+    border: 2px solid black;
+    color: green;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px 140px;
+    cursor: pointer;
+    text-decoration:none;
+    border-radius: 40%;
+    display: inline-block;
+}
+
+.printingheader { 
+
+    padding-top: 0px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size:  1.2rem;
+
+}
+
+.indented {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.navbaritem {
+    float: left;
+    padding: 0;
+    display: inline;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid grey;
+    
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: black;
+}
+
+.section {
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    animation-name: swipe-in;
+    animation-duration: 1s;
+    transition: all 1s;
+    height: 80px;
+    
+}
+
+.details {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.75rem;
+    
+}
+
+.detailh1 {
+    font-size: 2rem;
+    color: black;
+    
+}
+
+span {
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 4px rgb(0 0 0 / 30%);
+    color: black;
+    padding: 0 8px;
+}
+
+section {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    overflow: hidden;
+    box-sizing: border-box;
+    
+}
+
+figure {
+    display: block;
+}
+
+ol li {
+    overflow: hidden;
+}
+
+li {
+    display: list-item;
+}
+
+ol {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ol li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);   
+}
