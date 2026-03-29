@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Fraser Burns
-    - name: Date of Birth
-      value: 7th December 1992
+    - name: Location
+      value: Arbroath, Scotland, UK
     - name: Languages
       value: English
 
@@ -13,85 +13,94 @@
   contents:
     - title: HNC Mechanical Engineering
       institution: Edinburgh College
-      year: Expected 2025
+      year: In Progress
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Part-time study alongside full-time employment.
+        - Covering engineering principles, materials, and manufacturing processes.
     - title: NC Practical Engineering
       institution: Perth College UHI
       year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - Foundation qualification in practical engineering skills.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Lab Engineer Baker Hughes 
-      institution: Baker Hughes 
-      year: 06/2022 - 10/2023
+    - title: Quality Team Leader
+      institution: Scott & Fyfe
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Maintaining and updating the Quality Management System.
+        - Ensuring products meet customer and regulatory quality requirements.
+        - Leading the quality team and driving continuous improvement.
+        - title: Key Areas
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - QMS Management
+            - Quality Assurance
+            - Team Leadership
+    - title: Goods In Inspector
+      institution: Sulzer GT Aero Services Ltd
+      year: 2024 - 2025
+      description:
+        - Incoming inspection of gas turbine components.
+        - Non-conformance reporting and quality documentation.
+    - title: Lab Engineer
+      institution: Baker Hughes
+      year: 2022 - 2023
+      description:
+        - Additive Manufacturing lab support and process improvement.
+        - Helped increase lab productivity to 90%.
+        - title: Key Areas
+          contents:
+            - Additive Manufacturing
+            - Continuous Improvement
+            - CAD Design
     - title: Goods In Quality Control Inspector
       institution: Baker Hughes
-      year: 06/2018 - 06/2022
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
-
+        - Dimensional inspection of subsea trees and precision assemblies.
+        - CMM, Laser Tracker, and Romer Arm operation and programming.
+        - MRB review and non-conformance investigation.
     - title: NDE Quality Control Inspector
       institution: Pacson Valves
-      year: 06/2016 - 06/2018
-
+      year: 2016 - 2018
+      description:
+        - Non-destructive testing and inspection of subsea valves.
     - title: Quality Tester
       institution: Bonar Yarns
-      year: 01/2016 - 06/2016
-      description:
-
+      year: 2016
     - title: Quality Control Inspector
       institution: GA Engineering (Scotland)
-      year: 06/2011 - 10/2015
+      year: 2011 - 2015
+      description:
+        - Inspection of sub-contract machined components.
+        - Built foundation in dimensional measurement and quality documentation.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quality Management
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - QMS (ISO 9001)
+        - Non-Conformance Reporting
+        - Root Cause Analysis
+        - Continuous Improvement
+    - title: Inspection & Metrology
       items:
-        - Description 1.
-        - Description 2.
+        - Dimensional Inspection
+        - CMM / Laser Tracker / Romer Arm
+        - GD&T
+        - Non-Destructive Testing
+    - title: Engineering & Making
+      items:
+        - 3D Printing & Additive Manufacturing
+        - CAD Design
+        - Mechanical Engineering
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> 3D Printing, Hobby 2, etc.
+    - "<u>Making:</u> 3D Printing (functional parts & hobby models), mechanical engineering projects"
+    - "<u>Learning:</u> Quality management, lean thinking, leadership & management development"
+    - "<u>Reading:</u> Quality systems, continuous improvement, engineering"
