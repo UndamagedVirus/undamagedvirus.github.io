@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Quality Team Leader | Quality Management Professional | Engineering Enthusiast
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>'##Phone number'</p>
     <p>Arbroath, United Kingdom</p>
 
-news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: true
 ---
 
-Let me introduce myself, I am called Fraser Burns. I have been a Quality Control Inspector for the previous 13 years, . Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Fraser Burns, a Quality Team Leader with over 13 years of experience in quality control and inspection across Oil & Gas, aerospace, and technical textiles manufacturing. My career has taken me from hands-on inspection roles to leading quality teams, and I'm driven by a passion for continuous improvement and getting things right first time.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Most recently, I joined Scott & Fyfe as a Quality Team Leader, where I oversee the Quality Management System, ensure compliance with customer and regulatory requirements, and lead the team in maintaining and improving quality standards across technical textiles production.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I spent several years at Baker Hughes — first as a Goods In QC Inspector on subsea trees and assemblies, then as a Lab Engineer in their Additive Manufacturing division, where I helped increase productivity to 90% through process improvement and R&D. I'm also an active HSE advocate, having served on a safety committee and mentored colleagues on safe working practices.
+
+Outside of work, I'm currently studying for an HNC in Mechanical Engineering and spend my time on 3D printing, engineering projects, and reading around quality management, lean thinking, and leadership.
