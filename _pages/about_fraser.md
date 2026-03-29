@@ -1,5 +1,3 @@
-Let me introduce myself, I am called Fraser Burns. I have been a Quality Control Inspector for the previous 13 years. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Fraser Burns, a Quality Team Leader with over 13 years of experience in quality control and inspection across Oil & Gas, aerospace, and technical textiles manufacturing. I currently lead the quality team at Scott & Fyfe, overseeing the Quality Management System and ensuring compliance with customer and regulatory requirements.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously I worked at Baker Hughes as a QC Inspector and Lab Engineer in their Additive Manufacturing division. Outside of work I'm studying for an HNC in Mechanical Engineering and enjoy 3D printing and engineering projects.
