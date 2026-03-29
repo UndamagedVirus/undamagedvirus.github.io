@@ -15,36 +15,40 @@ Not because I was lazy or disinterested, but because I had just realised somethi
 
 That shift sounds simple. It is not.
 
-## The Job Looks the Same From the Outside
+## From the Shop Floor to the System
 
-When you move from inspector to team leader in a quality function, the title changes but the department stays the same. You are still surrounded by the same drawings, the same standards, the same language. People outside the team barely notice a difference.
+When you work as an inspector, you live on the shop floor. The feedback loop is short and clear. Something arrives, you assess it, you pass or fail it. You know where you stand.
 
-But the orientation is completely different. As an inspector, you are reactive by design. Something arrives, you assess it, you pass or fail it. The feedback loop is short and clear.
+Moving into a team leader role means stepping back from that world and working on the system behind it. You are no longer the one looking at the part. You are responsible for whether the right processes, standards, and training are in place so that quality is built in from the start. The feedback loop gets longer. The results are less visible. You do good work today and you might not see the outcome for months - or you might not see it at all, because the problem you prevented never appeared.
 
-As a team leader, you are responsible for whether the right conditions exist in the first place. You are thinking about processes, training, culture, communication. The feedback loop is long and often invisible. You do good work today and you might see the results in six months - or you might not see them at all because the problem you prevented never appeared.
+That transition from shop floor thinking to systems thinking was a challenge when I made the move. Honestly, it still is. There are days when the pull to just go and sort something out yourself is strong. But that is not the job anymore.
 
-## What Surprised Me
+## The Manager I Wanted to Be
 
-I expected the technical side to stay roughly the same. What I underestimated was how much of the job is about people.
+Across my career in quality, I have worked in environments where the team had real support - clear goals, documented processes, open communication, and a culture where you could raise your hand and ask a question without hesitation. That kind of environment makes a difference. You know what good looks like, you have the tools to achieve it, and you feel backed when things get difficult.
 
-Difficult conversations are a bigger part of it than anyone prepares you for. Not arguments, but the quiet, uncomfortable kind - telling someone their work is not good enough, pushing back on another department's shortcuts, making the case to management that a quality issue is worth stopping the line for. As an inspector you can raise a non-conformance and hand it up the chain. As a team leader, you are often the chain.
+That is the benchmark I carry with me. It shaped what I want to build.
 
-Trusting the team took longer than I expected. When you have spent years developing a sharp eye for defects, it is genuinely hard to step back and let someone else look. But micromanaging does not build a quality team - it just builds dependence on you. The turning point for me was realising that my job was to develop their judgement, not replace it.
+At Scott & Fyfe, the goal is straightforward even if the work is not: a quality team with a robust QMS underpinning everything they do, and a culture where people feel supported enough to flag problems early, ask questions freely, and take ownership of the standard. Clear direction. Solid processes. No guessing about what is expected.
 
-Communicating upward was a skill I had to build from scratch. Quality problems need to be translated into language that resonates with people who are not living in the detail - what is the risk, what is the cost, what do we need to do about it. That translation is part of the job now.
+## What the Role Actually Demands
+
+Getting there requires things that inspection did not prepare me for.
+
+Trusting the team is harder than it sounds when you have spent years developing a sharp eye for defects. The instinct is to step in. But stepping in too often builds dependence, not capability. The job is to develop the team's judgement, not replace it.
+
+Communicating upward is a different skill entirely. Quality problems need to be translated into language that lands with people who are not living in the detail - what is the risk, what is the cost, what needs to happen. That translation is part of the role now.
+
+And the credibility that comes from having done the job yourself matters more than I expected. The team knows you understand what you are asking of them. That earns trust in a way that a job title alone never could.
 
 ## What Carried Over
 
-Not everything changed. Some things I carried from inspection into leadership turned out to be more valuable than I expected.
-
 The inspector's habit of asking "why" until you reach the actual cause - not the surface answer, but the real one - is just as useful in a leadership role. Most quality problems have a process or system failure underneath them. That instinct to keep digging is worth keeping.
 
-The eye for detail matters too, but differently. You use it less to inspect individual parts and more to notice when something in the team or the system is not quite right. A process that has drifted. A team member who seems uncertain. A standard that is not being followed consistently.
+The eye for detail shifted too. You use it less to inspect individual parts and more to notice when something in the team or the system is not quite right. A process that has drifted. A team member who seems uncertain. A standard that is not being followed consistently.
 
-And there is something that surprised me - the credibility that comes from having done the job yourself. The team knows you understand what you are asking of them. That matters more than I realised it would.
+## Still Building
 
-## What I Would Tell Myself
+I will not pretend the transition is complete or that what I am working toward is fully in place. Moving from inspector to team leader is a work in progress, and some days the gap between the vision and the reality is more obvious than others.
 
-If I could go back and give myself one piece of advice before making the move, it would be this: your value is no longer in what you can do. It is in what you can help other people do.
-
-That is a harder adjustment than it sounds. But once it clicks, the job becomes something different. Less about finding problems, more about building something that works. That is a good trade.
+But the direction is clear. Build the system. Support the team. Be the kind of leader that makes the work easier, not harder. That is worth the challenge.
