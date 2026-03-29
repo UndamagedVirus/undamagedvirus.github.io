@@ -181,43 +181,71 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Quality Management",
+      "level": "Expert",
+      "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quality Management Systems (QMS)",
+        "ISO 9001",
+        "Non-Conformance Reporting",
+        "MRB Review",
+        "Continuous Improvement",
+        "Root Cause Analysis"
       ]
     },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Inspection & Metrology",
+      "level": "Expert",
+      "icon": "fa-solid fa-ruler-combined",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Dimensional Inspection",
+        "CMM Operation & Programming",
+        "Laser Tracker",
+        "Romer Arm",
+        "GD&T",
+        "Non-Destructive Testing"
+      ]
+    },
+    {
+      "name": "Engineering & Making",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-gears",
+      "keywords": [
+        "3D Printing",
+        "CAD Design",
+        "Additive Manufacturing",
+        "Mechanical Engineering"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "3D Printing",
+      "icon": "fa-solid fa-print",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Functional Parts",
+        "Hobby Models",
+        "FDM Printing",
+        "Design for Manufacture"
+      ]
+    },
+    {
+      "name": "Quality & Management",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Quality Management",
+        "Lean Thinking",
+        "Continuous Improvement",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Mechanical Projects",
+        "Problem Solving",
+        "Making & Repair"
       ]
     }
   ],
