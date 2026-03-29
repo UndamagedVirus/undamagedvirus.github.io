@@ -1,24 +1,29 @@
 {
   "basics": {
     "name": "Fraser Burns",
-    "label": "Quality Control Inspector",
+    "label": "Quality Team Leader",
     "image": "",
     "email": "fraser.burns@hotmail.co.uk",
     "phone": "+44 7449829405",
     "url": "https://undamagedvirus.github.io",
-    "summary": "A passionate seasoned professional with 13 years of Quality Control Inspection experience in the Oil & Gas industry, also worked for 18 months as a Lab Engineer in Additive Manufacturing, increasing productivity to 90%. He is dedicated to continious improvement and actively supports HSE initiatives as a safety committee member and mentor.",
+    "summary": "Quality Team Leader with over 13 years of experience in quality control and inspection across Oil & Gas, aerospace, and technical textiles manufacturing. Skilled in QMS management, continuous improvement, dimensional inspection, and non-destructive testing. Currently leading the quality function at Scott & Fyfe while completing an HNC in Mechanical Engineering.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Arbroath",
+      "countryCode": "GB",
+      "region": "Scotland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "fraser-burns-66a1857b",
+        "url": "https://www.linkedin.com/in/fraser-burns-66a1857b"
+      },
+      {
+        "network": "GitHub",
+        "username": "UndamagedVirus",
+        "url": "https://github.com/UndamagedVirus"
       }
     ]
   },
