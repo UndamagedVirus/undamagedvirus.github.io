@@ -146,7 +146,7 @@
     {
       "name": "XRF Safety Training",
       "date": "",
-      "issuer": "Stanford University",
+      "issuer": "Baker Hughes",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard"
     },
@@ -174,7 +174,7 @@
     {
      "name": "IOSH Managing Safely",
       "date": "04/2021",
-      "issuer": "Hexagon Metrology",
+      "issuer": "IOSH",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard"
     }
@@ -251,36 +251,20 @@
   ],
   "projects": [
     {
-      "name": "Inventory Managment System",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Additive Manufacturing Productivity Improvement",
+      "summary": "Led process improvement initiatives within Baker Hughes' Additive Manufacturing lab, optimising workflows, machine utilisation, and material handling to increase overall lab productivity to 90%.",
+      "highlights": ["Continuous Improvement", "Process Optimisation", "Additive Manufacturing"],
+      "startDate": "2022-06-01",
+      "endDate": "2023-10-01",
+      "url": ""
     },
     {
-      "name": "Inventory Managment System",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Inspection Department Application",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Material Waste Reduction",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Cost Saving", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "3D Printing Projects",
+      "summary": "Ongoing personal 3D printing projects including functional replacement parts, tools, and hobby models. Focused on practical applications and learning design for manufacture principles.",
+      "highlights": ["FDM Printing", "CAD Design", "Functional Parts"],
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "url": "https://undamagedvirus.github.io/projects"
     }
   ]
 }
