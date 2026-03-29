@@ -18,7 +18,7 @@ social: true
 
 I'm Fraser Burns, a Quality Team Leader with over 13 years of experience in quality control and inspection across Oil & Gas, aerospace, and technical textiles manufacturing. My career has taken me from hands-on inspection roles to leading quality teams, and I'm driven by a passion for continuous improvement and getting things right first time.
 
-Most recently, I joined Scott & Fyfe as a Quality Team Leader, where I oversee the Quality Management System, ensure compliance with customer and regulatory requirements, and lead the team in maintaining and improving quality standards across technical textiles production.
+I currently lead the quality team at Scott & Fyfe, where I oversee the Quality Management System, ensure compliance with customer and regulatory requirements, and lead the team in maintaining and improving quality standards across technical textiles production.
 
 Before that, I spent several years at Baker Hughes — first as a Goods In QC Inspector on subsea trees and assemblies, then as a Lab Engineer in their Additive Manufacturing division, where I helped increase productivity to 90% through process improvement and R&D. I'm also an active HSE advocate, having served on a safety committee and mentored colleagues on safe working practices.
 
