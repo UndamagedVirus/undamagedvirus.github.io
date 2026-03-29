@@ -8,7 +8,7 @@ first_name: Fraser
 last_name: Burns
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Fraser Burns — Quality Team Leader, engineering enthusiast, and lifelong learner. Showcasing professional experience, projects, and writing on quality management and making.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 1 Guy, 1000 Hobbies # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Quality management, 3D printing, and engineering — one hobby at a time.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -308,8 +308,8 @@ display_categories: ["quality-management", "3d-printing", "engineering"] # these
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Burns]
+  first_name: [Fraser, F.]
 
   style: apa
   locale: en
