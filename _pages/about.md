@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Quality Team Leader | Quality Management Professional | Engineering Enthusiast
+subtitle: Quality Team Leader | Focused on Quality Leadership & Improvement
 
 profile:
   align: right

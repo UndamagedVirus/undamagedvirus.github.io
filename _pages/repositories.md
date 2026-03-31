@@ -1,8 +1,9 @@
 ---
+page_id: repositories
 layout: page
 permalink: /repositories/
 title: repositories
-description: Just some of my Github side projects!
+description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 4
 ---
