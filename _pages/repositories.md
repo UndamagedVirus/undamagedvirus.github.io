@@ -14,7 +14,7 @@ nav_order: 4
 
 <div class="d-flex flex-wrap mb-4">
   {% for user in site.data.repositories.github_users %}
-  <a href="https://github.com/{{ user }}" target="_blank" rel="nofollow noopener" class="btn btn-outline-dark">
+  <a href="https://github.com/{{ user }}" target="_blank" rel="nofollow noopener" class="btn btn-outline-secondary">
     <i class="fab fa-github mr-2"></i>{{ user }}
   </a>
   {% endfor %}
