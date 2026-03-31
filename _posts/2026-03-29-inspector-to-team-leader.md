@@ -1,4 +1,4 @@
----
+i---
 layout: post
 title: "From Inspector to Team Leader: What Nobody Tells You"
 date: 2026-03-29 09:00:00
@@ -43,7 +43,7 @@ And the credibility that comes from having done the job yourself matters more th
 
 ## What Carried Over
 
-The inspector's habit of asking "why" until you reach the actual cause, not the surface answer but the real one, is just as useful in a leadership role. Most quality problems have a process or system failure underneath them. That instinct to keep digging is worth keeping.
+The inspector's habit of asking "why" until you reach the actual cause - not the surface answer, but the real one - is just as useful in a leadership role. Most quality problems have a process or system failure underneath them. That instinct to keep digging is worth keeping.
 
 The eye for detail shifted too. You use it less to inspect individual parts and more to notice when something in the team or the system is not quite right. A process that has drifted. A team member who seems uncertain. A standard that is not being followed consistently.
 
