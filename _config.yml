@@ -253,7 +253,6 @@ exclude:
   - UPGRADING.md
   - vendor
 keep_files:
-keep_files:
   - CNAME
   - .nojekyll
 

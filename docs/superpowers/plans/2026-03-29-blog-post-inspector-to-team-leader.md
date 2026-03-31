@@ -13,6 +13,7 @@
 ### Task 1: Write the blog post
 
 **Files:**
+
 - Create: `_posts/2026-03-29-inspector-to-team-leader.md`
 
 - [ ] **Step 1: Create the post file**
@@ -75,6 +76,7 @@ That is a harder adjustment than it sounds. But once it clicks, the job becomes 
 - [ ] **Step 2: Verify the file**
 
 Read the file back and confirm:
+
 - No em dashes (use `-` not `-`)
 - Frontmatter is valid YAML
 - Title, date, tags, and category match the spec

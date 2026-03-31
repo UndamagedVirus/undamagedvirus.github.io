@@ -12,6 +12,7 @@ During my time as a Lab Engineer in Baker Hughes' Additive Manufacturing divisio
 Through workflow analysis, machine utilisation improvements, material handling optimisation, and closer collaboration between the lab team and customers, we were able to increase overall lab productivity to **90%**.
 
 **Key activities:**
+
 - Mapping existing workflows and identifying bottlenecks
 - Optimising build scheduling and machine downtime
 - Supporting R&D projects and customer requirement management

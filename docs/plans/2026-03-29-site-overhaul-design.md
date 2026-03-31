@@ -1,4 +1,5 @@
 # Site Overhaul Design — undamagedvirus.github.io
+
 **Date:** 2026-03-29
 **Approach:** Content-first (Option A) — fix all content systematically, leverage existing al-folio theme
 
@@ -24,15 +25,15 @@ A complete personal showcase for Fraser Burns: professional CV for recruiters, h
 
 ### Work Experience — all summaries rewritten (remove Einstein placeholders)
 
-| Role | Company | Dates |
-|------|---------|-------|
-| Quality Team Leader | Scott & Fyfe (Technical Textiles) | 2025–present |
-| Goods In Inspector | Sulzer GT Aero Services | 2024–2025 |
-| Lab Engineer | Baker Hughes | 2022–2023 |
-| Goods In QC Inspector | Baker Hughes | 2018–2022 |
-| NDE QC Inspector | Pacson Valves | 2016–2018 |
-| Quality Tester | Bonar Yarns | 2016 |
-| Quality Control Inspector | GA Engineering (Scotland) | 2011–2015 |
+| Role                      | Company                           | Dates        |
+| ------------------------- | --------------------------------- | ------------ |
+| Quality Team Leader       | Scott & Fyfe (Technical Textiles) | 2025–present |
+| Goods In Inspector        | Sulzer GT Aero Services           | 2024–2025    |
+| Lab Engineer              | Baker Hughes                      | 2022–2023    |
+| Goods In QC Inspector     | Baker Hughes                      | 2018–2022    |
+| NDE QC Inspector          | Pacson Valves                     | 2016–2018    |
+| Quality Tester            | Bonar Yarns                       | 2016         |
+| Quality Control Inspector | GA Engineering (Scotland)         | 2011–2015    |
 
 - Scott & Fyfe summary: QMS maintenance/updates, quality assurance, team leadership in technical textiles manufacturing
 - All summaries to emphasise upward progression toward quality management

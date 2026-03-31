@@ -13,6 +13,7 @@
 ### Task 1: Update About Page
 
 **Files:**
+
 - Modify: `_pages/about.md`
 
 **Step 1: Replace the about page content**
@@ -63,6 +64,7 @@ git commit -m "content: rewrite about page with real bio and correct subtitle"
 ### Task 2: Update resume.json — Basics & Location
 
 **Files:**
+
 - Modify: `assets/json/resume.json`
 
 **Step 1: Update the basics section**
@@ -116,6 +118,7 @@ git commit -m "content: fix resume basics — correct label, location, and profi
 ### Task 3: Update resume.json — Work Experience
 
 **Files:**
+
 - Modify: `assets/json/resume.json`
 
 **Step 1: Replace the entire `"work"` array**
@@ -204,6 +207,7 @@ git commit -m "content: rewrite all work experience summaries, add Scott & Fyfe 
 ### Task 4: Update resume.json — Skills & Interests
 
 **Files:**
+
 - Modify: `assets/json/resume.json`
 
 **Step 1: Replace the `"skills"` array**
@@ -302,6 +306,7 @@ git commit -m "content: replace placeholder skills and interests with real conte
 ### Task 5: Update resume.json — Projects & Fix Certificates
 
 **Files:**
+
 - Modify: `assets/json/resume.json`
 
 **Step 1: Replace the `"projects"` array**
@@ -347,6 +352,7 @@ git commit -m "content: replace placeholder projects, fix certificate issuers"
 ### Task 6: Update cv.yml
 
 **Files:**
+
 - Modify: `_data/cv.yml`
 
 **Step 1: Replace the entire file**
@@ -476,6 +482,7 @@ git commit -m "content: rewrite cv.yml with real experience, skills, and interes
 ### Task 7: Replace Placeholder Projects
 
 **Files:**
+
 - Delete: `_projects/1_project.md` through `_projects/9_project.md`
 - Create: `_projects/3d-printing.md`
 - Create: `_projects/productivity-improvement.md`
@@ -503,6 +510,7 @@ During my time as a Lab Engineer in Baker Hughes' Additive Manufacturing divisio
 Through workflow analysis, machine utilisation improvements, material handling optimisation, and closer collaboration between the lab team and customers, we were able to increase overall lab productivity to **90%**.
 
 **Key activities:**
+
 - Mapping existing workflows and identifying bottlenecks
 - Optimising build scheduling and machine downtime
 - Supporting R&D projects and customer requirement management
@@ -550,6 +558,7 @@ git commit -m "content: replace placeholder projects with real project pages"
 ### Task 8: Clean Up Blog Posts and Config
 
 **Files:**
+
 - Modify: `_config.yml`
 - Delete all files in `_posts/`
 - Delete placeholder news/announcements in `_news/`
@@ -567,12 +576,14 @@ external_sources:
 **Step 2: Update blog display categories in `_config.yml`**
 
 Find:
+
 ```yaml
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"]
 display_categories: ["external-services"]
 ```
 
 Replace with:
+
 ```yaml
 display_tags: ["quality", "3d-printing", "engineering", "lean", "management"]
 display_categories: ["quality-management", "3d-printing", "engineering"]
@@ -621,28 +632,33 @@ git commit -m "content: remove placeholder blog posts, announcements, and extern
 ### Task 9: Final Config Cleanup
 
 **Files:**
+
 - Modify: `_config.yml`
 
 **Step 1: Update site description and blog description**
 
 Find:
+
 ```yaml
 description: >
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ```
 
 Replace with:
+
 ```yaml
 description: >
   Fraser Burns — Quality Team Leader, engineering enthusiast, and lifelong learner. This site showcases my professional experience, projects, and writing on quality management and making.
 ```
 
 Find:
+
 ```yaml
 blog_description: a simple whitespace theme for academics
 ```
 
 Replace with:
+
 ```yaml
 blog_description: Quality management, 3D printing, and engineering — one hobby at a time.
 ```
@@ -650,6 +666,7 @@ blog_description: Quality management, 3D printing, and engineering — one hobby
 **Step 2: Fix the scholar section** (still references Einstein)
 
 Find:
+
 ```yaml
 scholar:
   last_name: [Einstein]
@@ -657,6 +674,7 @@ scholar:
 ```
 
 Replace with:
+
 ```yaml
 scholar:
   last_name: [Burns]

@@ -28,70 +28,76 @@
     ]
   },
   "work": [
-  {
-    "name": "Scott & Fyfe",
-    "position": "Quality Team Leader",
-    "url": "https://www.scottandfyfe.com/",
-    "startDate": "2025-01-01",
-    "endDate": "",
-    "summary": "Leading the quality function at a technical textiles manufacturer. Responsible for maintaining and updating the Quality Management System, ensuring products meet customer and regulatory requirements, driving continuous improvement initiatives, and leading the quality team in day-to-day operations.",
-    "highlights": ["QMS Management", "Quality Assurance", "Technical Textiles", "Team Leadership", "Continuous Improvement"]
-  },
-  {
-    "name": "Sulzer GT Aero Services Ltd",
-    "position": "Goods In Inspector",
-    "url": "https://www.sulzer.com/",
-    "startDate": "2024-01-01",
-    "endDate": "2025-01-01",
-    "summary": "Performed incoming inspection of gas turbine components and assemblies to ensure conformance with engineering drawings and quality standards. Supported the quality team in maintaining inspection records and non-conformance reporting.",
-    "highlights": ["Gas Turbines", "Dimensional Inspection", "Non-Conformance Reporting"]
-  },
-  {
-    "name": "Baker Hughes",
-    "position": "Lab Engineer",
-    "url": "https://www.bakerhughes.com/",
-    "startDate": "2022-06-01",
-    "endDate": "2023-10-01",
-    "summary": "Worked within the Additive Manufacturing division supporting R&D, process improvement, and machine maintenance. Contributed to increasing lab productivity to 90% through workflow optimisation, CAD design support, and building strong customer and internal relationships.",
-    "highlights": ["Additive Manufacturing", "Continuous Improvement", "CAD Design", "Research & Development", "Customer Relations"]
-  },
-  {
-    "name": "Baker Hughes",
-    "position": "Goods In Quality Control Inspector",
-    "url": "https://www.bakerhughes.com/",
-    "startDate": "2018-06-01",
-    "endDate": "2022-06-01",
-    "summary": "Carried out dimensional and visual inspection of subsea trees, sub-assemblies, and precision components to ensure conformance with drawings and specifications. Operated and programmed CMM, Laser Tracker, and Romer Arm equipment. Conducted MRB reviews, raised non-conformance reports, and supported investigations into quality escapes.",
-    "highlights": ["Subsea Trees & Sub-Assemblies", "Dimensional Inspection", "MRB Review", "Non-Conformance Reporting & Investigations", "CMM / Laser Tracker / Romer Arm Operation & Programming"]
-  },
-  {
-    "name": "Pacson Valves",
-    "position": "NDE Quality Control Inspector",
-    "url": "https://example.com",
-    "startDate": "2016-06-01",
-    "endDate": "2018-06-01",
-    "summary": "Performed non-destructive testing and quality inspection on subsea valves and associated components. Ensured products met applicable codes, standards, and customer specifications throughout the manufacturing process.",
-    "highlights": ["Subsea Valves", "Non-Destructive Testing", "Quality Inspection"]
-  },
-  {
-    "name": "Bonar Yarns",
-    "position": "Quality Tester",
-    "url": "https://example.com",
-    "startDate": "2016-01-01",
-    "endDate": "2016-06-01",
-    "summary": "Conducted quality testing on yarn and textile products to verify compliance with product specifications and customer requirements.",
-    "highlights": ["Textile Quality Testing", "Product Compliance"]
-  },
-  {
-    "name": "GA Engineering (Scotland)",
-    "position": "Quality Control Inspector",
-    "url": "https://example.com",
-    "startDate": "2011-06-01",
-    "endDate": "2015-10-01",
-    "summary": "Inspected machined components produced under sub-contract to ensure dimensional accuracy and surface finish compliance with engineering drawings and customer requirements. Built a strong foundation in precision measurement and quality documentation over four years in the role.",
-    "highlights": ["Sub-Contract Machining", "Dimensional Inspection", "Engineering Drawings", "Quality Documentation"]
-  }
-],
+    {
+      "name": "Scott & Fyfe",
+      "position": "Quality Team Leader",
+      "url": "https://www.scottandfyfe.com/",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Leading the quality function at a technical textiles manufacturer. Responsible for maintaining and updating the Quality Management System, ensuring products meet customer and regulatory requirements, driving continuous improvement initiatives, and leading the quality team in day-to-day operations.",
+      "highlights": ["QMS Management", "Quality Assurance", "Technical Textiles", "Team Leadership", "Continuous Improvement"]
+    },
+    {
+      "name": "Sulzer GT Aero Services Ltd",
+      "position": "Goods In Inspector",
+      "url": "https://www.sulzer.com/",
+      "startDate": "2024-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Performed incoming inspection of gas turbine components and assemblies to ensure conformance with engineering drawings and quality standards. Supported the quality team in maintaining inspection records and non-conformance reporting.",
+      "highlights": ["Gas Turbines", "Dimensional Inspection", "Non-Conformance Reporting"]
+    },
+    {
+      "name": "Baker Hughes",
+      "position": "Lab Engineer",
+      "url": "https://www.bakerhughes.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked within the Additive Manufacturing division supporting R&D, process improvement, and machine maintenance. Contributed to increasing lab productivity to 90% through workflow optimisation, CAD design support, and building strong customer and internal relationships.",
+      "highlights": ["Additive Manufacturing", "Continuous Improvement", "CAD Design", "Research & Development", "Customer Relations"]
+    },
+    {
+      "name": "Baker Hughes",
+      "position": "Goods In Quality Control Inspector",
+      "url": "https://www.bakerhughes.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Carried out dimensional and visual inspection of subsea trees, sub-assemblies, and precision components to ensure conformance with drawings and specifications. Operated and programmed CMM, Laser Tracker, and Romer Arm equipment. Conducted MRB reviews, raised non-conformance reports, and supported investigations into quality escapes.",
+      "highlights": [
+        "Subsea Trees & Sub-Assemblies",
+        "Dimensional Inspection",
+        "MRB Review",
+        "Non-Conformance Reporting & Investigations",
+        "CMM / Laser Tracker / Romer Arm Operation & Programming"
+      ]
+    },
+    {
+      "name": "Pacson Valves",
+      "position": "NDE Quality Control Inspector",
+      "url": "https://example.com",
+      "startDate": "2016-06-01",
+      "endDate": "2018-06-01",
+      "summary": "Performed non-destructive testing and quality inspection on subsea valves and associated components. Ensured products met applicable codes, standards, and customer specifications throughout the manufacturing process.",
+      "highlights": ["Subsea Valves", "Non-Destructive Testing", "Quality Inspection"]
+    },
+    {
+      "name": "Bonar Yarns",
+      "position": "Quality Tester",
+      "url": "https://example.com",
+      "startDate": "2016-01-01",
+      "endDate": "2016-06-01",
+      "summary": "Conducted quality testing on yarn and textile products to verify compliance with product specifications and customer requirements.",
+      "highlights": ["Textile Quality Testing", "Product Compliance"]
+    },
+    {
+      "name": "GA Engineering (Scotland)",
+      "position": "Quality Control Inspector",
+      "url": "https://example.com",
+      "startDate": "2011-06-01",
+      "endDate": "2015-10-01",
+      "summary": "Inspected machined components produced under sub-contract to ensure dimensional accuracy and surface finish compliance with engineering drawings and customer requirements. Built a strong foundation in precision measurement and quality documentation over four years in the role.",
+      "highlights": ["Sub-Contract Machining", "Dimensional Inspection", "Engineering Drawings", "Quality Documentation"]
+    }
+  ],
   "education": [
     {
       "institution": "Edinburgh College",
@@ -114,7 +120,7 @@
       "courses": ["Practical Engineering"]
     }
   ],
-    "certificates": [
+  "certificates": [
     {
       "name": "Virtalis Developer Training",
       "date": "",
@@ -172,7 +178,7 @@
       "icon": "fa-solid fa-ruler-combined"
     },
     {
-     "name": "IOSH Managing Safely",
+      "name": "IOSH Managing Safely",
       "date": "04/2021",
       "issuer": "IOSH",
       "url": "https://example.com",
@@ -197,56 +203,30 @@
       "name": "Inspection & Metrology",
       "level": "Expert",
       "icon": "fa-solid fa-ruler-combined",
-      "keywords": [
-        "Dimensional Inspection",
-        "CMM Operation & Programming",
-        "Laser Tracker",
-        "Romer Arm",
-        "GD&T",
-        "Non-Destructive Testing"
-      ]
+      "keywords": ["Dimensional Inspection", "CMM Operation & Programming", "Laser Tracker", "Romer Arm", "GD&T", "Non-Destructive Testing"]
     },
     {
       "name": "Engineering & Making",
       "level": "Intermediate",
       "icon": "fa-solid fa-gears",
-      "keywords": [
-        "3D Printing",
-        "CAD Design",
-        "Additive Manufacturing",
-        "Mechanical Engineering"
-      ]
+      "keywords": ["3D Printing", "CAD Design", "Additive Manufacturing", "Mechanical Engineering"]
     }
   ],
   "interests": [
     {
       "name": "3D Printing",
       "icon": "fa-solid fa-print",
-      "keywords": [
-        "Functional Parts",
-        "Hobby Models",
-        "FDM Printing",
-        "Design for Manufacture"
-      ]
+      "keywords": ["Functional Parts", "Hobby Models", "FDM Printing", "Design for Manufacture"]
     },
     {
       "name": "Quality & Management",
       "icon": "fa-solid fa-book",
-      "keywords": [
-        "Quality Management",
-        "Lean Thinking",
-        "Continuous Improvement",
-        "Leadership Development"
-      ]
+      "keywords": ["Quality Management", "Lean Thinking", "Continuous Improvement", "Leadership Development"]
     },
     {
       "name": "Engineering",
       "icon": "fa-solid fa-wrench",
-      "keywords": [
-        "Mechanical Projects",
-        "Problem Solving",
-        "Making & Repair"
-      ]
+      "keywords": ["Mechanical Projects", "Problem Solving", "Making & Repair"]
     }
   ],
   "projects": [
