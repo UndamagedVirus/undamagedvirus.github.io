@@ -1,8 +1,7 @@
 github_users:
   - UndamagedVirus
 
-repo_description_lines_max: 2
-
 github_repos:
-  - UndamagedVirus/SimpleCounter
-
+  - name: UndamagedVirus/SimpleCounter
+    description: "First App Made On Android Studio"
+    language: "Kotlin"
