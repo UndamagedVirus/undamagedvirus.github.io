@@ -1,4 +1,4 @@
-i---
+---
 layout: post
 title: "From Inspector to Team Leader: What Nobody Tells You"
 date: 2026-03-29 09:00:00
